@@ -1,0 +1,14 @@
+material GroundPlaneRC/Black
+{
+  receive_shadows off
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture ground_plane_rc.png
+      }
+    }
+  }
+}

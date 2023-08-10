@@ -1,0 +1,8 @@
+FROM ros:humble-ros-base
+RUN apt-get update && apt-get upgrade -y
+RUN apt-get install gazebo -y
+RUN apt-get install ros-humble-moveit* -y
+RUN apt-get install ros-humble-nav* -y
+RUN apt-get install ros-humble-control* -y
+RUN apt-get install ros-humble-gazebo* -y
+RUN apt-get update && apt-get upgrade -y

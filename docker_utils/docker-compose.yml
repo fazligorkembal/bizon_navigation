@@ -1,0 +1,18 @@
+version: "2.3"
+services:
+  nav_ws:
+    build: .
+    network_mode: host
+    ipc: host
+    runtime: nvidia
+    volumes:
+      - /tmp/.X11-unix:/tmp/.X11-unix:rw
+      - ../:/home/user/Documents/bizon_navigation
+    privileged: true
+    environment:
+      - DISPLAY
+      - NVIDIA_VISIBLE_DEVICES=all
+      - NVIDIA_DRIVER_CAPABILITIES=all
+      - QT_X11_NO_MITSHM=1
+    command: bash -c "source /opt/ros/humble/setup.bash && rviz2"
+    working_dir: /home/user/Documents/bizon_navigation

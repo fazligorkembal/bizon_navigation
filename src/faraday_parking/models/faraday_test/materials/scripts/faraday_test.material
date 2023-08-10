@@ -1,0 +1,14 @@
+material FaradayTest/TestCoor
+{
+  receive_shadows off
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture faraday_test.png
+      }
+    }
+  }
+}

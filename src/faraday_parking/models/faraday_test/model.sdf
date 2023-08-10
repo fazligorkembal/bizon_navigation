@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<sdf version="1.5">
+  <model name="Gas Station">
+    <static>true</static>
+    <link name="link">
+      <pose>0 0 0 0 0 0</pose>
+      <collision name="collision">
+        <geometry>
+          <mesh>
+            <uri>model://faraday_test/meshes/faraday_test.dae</uri>
+          </mesh>
+        </geometry>
+      </collision>
+      <visual name="visual">
+        <geometry>
+          <mesh>
+            <uri>model://faraday_test/meshes/faraday_test.dae</uri>
+          </mesh>
+        </geometry>
+        <material>
+          <script>
+            <uri>model://faraday_test/materials/scripts</uri>
+            <uri>model://faraday_test/materials/textures</uri>
+            <name>FaradayTest/TestCoor</name>
+          </script>
+          <shader type="normal_map_tangent_space">
+            <normal_map>faraday_test.png</normal_map>
+          </shader>
+        </material>
+      </visual>
+    </link>
+  </model>
+</sdf>
