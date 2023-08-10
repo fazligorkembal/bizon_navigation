@@ -1,0 +1,73 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+-- Found ament_lint_auto: 0.12.7 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/user/Documents/bizon_navigation/build/faraday_parking
+-- Install configuration: ""
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/launch
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/launch/load_empty_world.py
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/worlds
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/worlds/empty_world.world
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/worlds/competition_track.world
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/custom_ground_plane
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/custom_ground_plane/materials
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/custom_ground_plane/materials/scripts
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/custom_ground_plane/materials/scripts/parking.material
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/custom_ground_plane/materials/scripts/floor.material
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/custom_ground_plane/materials/textures
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/custom_ground_plane/materials/textures/floor.png
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/custom_ground_plane/materials/textures/parking.png
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/custom_ground_plane/materials/textures/copy of floor_svg.svg
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/custom_ground_plane/materials/textures/floor_svg.svg
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/custom_ground_plane/materials/textures/floor_resized.png
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/faraday_test
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/faraday_test/meshes
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/faraday_test/meshes/faraday_test.dae
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/faraday_test/model.sdf
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/faraday_test/materials
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/faraday_test/materials/scripts
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/faraday_test/materials/scripts/faraday_test.material
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/faraday_test/materials/textures
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/faraday_test/materials/textures/faraday_test.png
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/faraday_test/model.config
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/ground_plane_rc
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/ground_plane_rc/model.sdf
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/ground_plane_rc/materials
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/ground_plane_rc/materials/scripts
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/ground_plane_rc/materials/scripts/ground_plane_rc.material
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/ground_plane_rc/materials/textures
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/ground_plane_rc/materials/textures/ground_plane_rc.png
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/ground_plane_rc/model.config
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/ament_index/resource_index/package_run_dependencies/faraday_parking
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/ament_index/resource_index/parent_prefix_path/faraday_parking
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/environment/ament_prefix_path.sh
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/environment/ament_prefix_path.dsv
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/environment/path.sh
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/environment/path.dsv
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/local_setup.bash
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/local_setup.sh
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/local_setup.zsh
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/local_setup.dsv
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/package.dsv
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/ament_index/resource_index/packages/faraday_parking
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/cmake/faraday_parkingConfig.cmake
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/cmake/faraday_parkingConfig-version.cmake
+-- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/package.xml

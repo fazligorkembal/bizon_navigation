@@ -1,0 +1,8 @@
+source;share/faraday_parking/hook/cmake_prefix_path.ps1
+source;share/faraday_parking/hook/cmake_prefix_path.dsv
+source;share/faraday_parking/hook/cmake_prefix_path.sh
+source;share/faraday_parking/local_setup.bash
+source;share/faraday_parking/local_setup.dsv
+source;share/faraday_parking/local_setup.ps1
+source;share/faraday_parking/local_setup.sh
+source;share/faraday_parking/local_setup.zsh

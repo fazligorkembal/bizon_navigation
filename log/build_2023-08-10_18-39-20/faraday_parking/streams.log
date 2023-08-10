@@ -1,0 +1,55 @@
+[0.161s] Invoking command in '/home/user/Documents/bizon_navigation/build/faraday_parking': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/Documents/bizon_navigation/install/turtlebot3_teleop:/home/user/Documents/bizon_navigation/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --build /home/user/Documents/bizon_navigation/build/faraday_parking -- -j16 -l16
+[0.193s] Invoked command in '/home/user/Documents/bizon_navigation/build/faraday_parking' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/Documents/bizon_navigation/install/turtlebot3_teleop:/home/user/Documents/bizon_navigation/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --build /home/user/Documents/bizon_navigation/build/faraday_parking -- -j16 -l16
+[0.237s] Invoking command in '/home/user/Documents/bizon_navigation/build/faraday_parking': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/Documents/bizon_navigation/install/turtlebot3_teleop:/home/user/Documents/bizon_navigation/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --install /home/user/Documents/bizon_navigation/build/faraday_parking
+[0.241s] -- Install configuration: ""
+[0.241s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/launch
+[0.242s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/launch/load_empty_world.py
+[0.242s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/worlds
+[0.242s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/worlds/empty_world.world
+[0.242s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/worlds/competition_track.world
+[0.242s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models
+[0.242s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/custom_ground_plane
+[0.242s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/custom_ground_plane/materials
+[0.242s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/custom_ground_plane/materials/scripts
+[0.242s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/custom_ground_plane/materials/scripts/parking.material
+[0.242s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/custom_ground_plane/materials/scripts/floor.material
+[0.243s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/custom_ground_plane/materials/textures
+[0.244s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/custom_ground_plane/materials/textures/floor.png
+[0.244s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/custom_ground_plane/materials/textures/parking.png
+[0.244s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/custom_ground_plane/materials/textures/copy of floor_svg.svg
+[0.244s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/custom_ground_plane/materials/textures/floor_svg.svg
+[0.244s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/custom_ground_plane/materials/textures/floor_resized.png
+[0.244s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/faraday_test
+[0.245s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/faraday_test/meshes
+[0.245s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/faraday_test/meshes/faraday_test.dae
+[0.245s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/faraday_test/model.sdf
+[0.247s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/faraday_test/materials
+[0.247s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/faraday_test/materials/scripts
+[0.247s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/faraday_test/materials/scripts/faraday_test.material
+[0.247s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/faraday_test/materials/textures
+[0.248s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/faraday_test/materials/textures/faraday_test.png
+[0.248s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/faraday_test/model.config
+[0.248s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/ground_plane_rc
+[0.248s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/ground_plane_rc/model.sdf
+[0.248s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/ground_plane_rc/materials
+[0.248s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/ground_plane_rc/materials/scripts
+[0.249s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/ground_plane_rc/materials/scripts/ground_plane_rc.material
+[0.249s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/ground_plane_rc/materials/textures
+[0.249s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/ground_plane_rc/materials/textures/ground_plane_rc.png
+[0.250s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/models/ground_plane_rc/model.config
+[0.251s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/ament_index/resource_index/package_run_dependencies/faraday_parking
+[0.251s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/ament_index/resource_index/parent_prefix_path/faraday_parking
+[0.251s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/environment/ament_prefix_path.sh
+[0.251s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/environment/ament_prefix_path.dsv
+[0.252s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/environment/path.sh
+[0.252s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/environment/path.dsv
+[0.252s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/local_setup.bash
+[0.253s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/local_setup.sh
+[0.253s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/local_setup.zsh
+[0.253s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/local_setup.dsv
+[0.253s] -- Installing: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/package.dsv
+[0.253s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/ament_index/resource_index/packages/faraday_parking
+[0.253s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/cmake/faraday_parkingConfig.cmake
+[0.254s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/cmake/faraday_parkingConfig-version.cmake
+[0.254s] -- Up-to-date: /home/user/Documents/bizon_navigation/install/faraday_parking/share/faraday_parking/package.xml
+[0.272s] Invoked command in '/home/user/Documents/bizon_navigation/build/faraday_parking' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/Documents/bizon_navigation/install/turtlebot3_teleop:/home/user/Documents/bizon_navigation/install/turtlebot3_example:/opt/ros/humble /usr/bin/cmake --install /home/user/Documents/bizon_navigation/build/faraday_parking

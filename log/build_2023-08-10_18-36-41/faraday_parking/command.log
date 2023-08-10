@@ -1,0 +1,4 @@
+Invoking command in '/home/user/Documents/bizon_navigation/build/faraday_parking': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/user/Documents/bizon_navigation/build/faraday_parking -- -j16 -l16
+Invoked command in '/home/user/Documents/bizon_navigation/build/faraday_parking' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/user/Documents/bizon_navigation/build/faraday_parking -- -j16 -l16
+Invoking command in '/home/user/Documents/bizon_navigation/build/faraday_parking': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/user/Documents/bizon_navigation/build/faraday_parking
+Invoked command in '/home/user/Documents/bizon_navigation/build/faraday_parking' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/user/Documents/bizon_navigation/build/faraday_parking
